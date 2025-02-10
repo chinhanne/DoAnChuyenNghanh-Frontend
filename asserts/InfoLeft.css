@@ -1,0 +1,44 @@
+.info-left {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-top {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+  }
+  
+  .info-bottom {
+    padding-top: 20px;
+  }
+  
+  .info-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .info-item {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    padding: 8px 0;
+    color: #333;
+  }
+  
+  .info-link {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s, background-color 0.3s;
+  }
+  
+  .info-link:hover .info-item {
+    color: #007bff;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  
+  .icon-user {
+    color: #007bff;
+  }
+  

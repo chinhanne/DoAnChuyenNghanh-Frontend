@@ -1,0 +1,52 @@
+.dashboard-container {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 25%;
+    background-color: #dbdfe6;
+    height: 100vh;
+    padding: 20px;
+    color: white;
+  }
+  
+  .sidebar-title {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .menu-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menu-list li {
+    padding: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #dbdfe6;
+    text-align: center;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .menu-list li:hover {
+    background-color: #dbdfe6;
+  }
+  
+  .menu-list li.active {
+    background-color: #dbdfe6;
+  }
+  
+  .logout-btn {
+    background-color: red;
+    color: white;
+  }
+  
+  .content {
+    width: 75%;
+    padding: 20px;
+    background-color: white;
+  }
+  

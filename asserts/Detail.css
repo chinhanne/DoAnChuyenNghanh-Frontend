@@ -1,0 +1,13 @@
+.more-description li::before{
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f046";
+    color: #d0021b;
+    margin-right: 10px;
+}
+li{
+    font-size: 1.1rem;
+}

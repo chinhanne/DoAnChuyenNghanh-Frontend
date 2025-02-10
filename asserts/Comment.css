@@ -1,0 +1,25 @@
+.product-review-head{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    height: 40px;
+    text-align: center;
+}
+.hrv-product-reviews-author{
+    text-align: start;
+    margin-left: 1rem;
+}
+.rowbigen{
+    position: relative;
+    margin-top: 5px;
+    text-align: start;
+}
+.product-reviews-list time{
+    margin-left: 1rem;
+    font-size: 12px;
+    font-style: italic;
+    color: #616565;
+}
+.bigen-reply{
+    padding: 10px 60px ;
+
+}

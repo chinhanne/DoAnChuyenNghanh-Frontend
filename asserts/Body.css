@@ -1,0 +1,7 @@
+.product-list{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}

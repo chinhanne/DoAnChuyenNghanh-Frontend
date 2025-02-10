@@ -1,0 +1,16 @@
+.slidelayout{
+    width: 85%;
+    position: relative;
+    top:10px;
+    left:130px;
+}
+.carousel-inner img {
+width: 100%;
+height: 70%;
+}
+.carousel-control-prev{
+    left:0;
+}
+.carousel-control-next{
+    right: 0;
+}

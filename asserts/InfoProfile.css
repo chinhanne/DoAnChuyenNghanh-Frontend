@@ -1,0 +1,41 @@
+.info-table{
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px 0;
+  }
+  
+  .name-input input {
+    width: 70%;
+    height: 40px; /* Điều chỉnh chiều rộng của input để phù hợp với chiều rộng của cột */
+  }
+  
+  input[type='radio'] {
+    margin-right: 5px; /* Khoảng cách giữa radio và label */
+  }
+  
+  select {
+    margin-right: 10px; /* Khoảng cách giữa các thẻ select */
+  }
+.select-bd{
+    width: 120px;
+    height: 40px;
+}
+.custom-btn{
+  background-color: #fff;
+  border-radius: 3px;
+  width: 100px;
+  height: 30px;
+  outline: none;
+  cursor: pointer;
+}
+.custom-btn:hover{
+  background-color: #efefef;
+}
